@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021245387495",
+    "project_id": "flutter-firebase-noti",
+    "storage_bucket": "flutter-firebase-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021245387495:android:3ae8e1aa229a37a7c2a842",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021245387495-9riisueb30a370k982h4egs5q877tvqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjzkXOLgH3683WD4Q71EKD-I3loNxYkPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021245387495-9riisueb30a370k982h4egs5q877tvqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
